@@ -1,0 +1,6 @@
+cd Desktop\
+mkdir spotlight
+cd C:\Users\ASUS\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\
+copy Assets C:\Users\ASUS\Desktop\spotlight\
+cd C:\Users\ASUS\Desktop\spotlight\
+ren * *.jpg
